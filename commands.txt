@@ -3,3 +3,4 @@ git status
 git add -A
 git commit -m "message"
 git log -- commit history shows
+git remote add name path
